@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Smart-Crop-Disease-Detection/images/crop_ai_demo.gif" width="650">
+  <img src="Smart-Crop-Disease-Detection/images/crop_ai_demo.gif" width="200">
 </p>
 
 <h2 align="center">Smart Crop Disease Detection using Deep Learning</h2>

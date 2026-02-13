@@ -127,5 +127,5 @@ This system can help:
 
 ## Author
 
-Prajith Arjunan S
-B.Tech Computer Science 
+Prajith Arjunan S <br>
+B.Tech Computer Science
